@@ -1,0 +1,4 @@
+# Large Intel Image Classification dataset
+/random_forest_results/seg_train/
+/random_forest_results/seg_test/
+/random_forest_results/seg_pred/
